@@ -1,4 +1,4 @@
-# Ohyun2023
+# jejunu2024
 # 백엔드
 ## 1차시
 https://dirt-record-7f9.notion.site/1-6-8-769827e2aa07401baa9f2db25efe096c?pvs=4
